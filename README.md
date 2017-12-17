@@ -1,7 +1,7 @@
 # Josephine Lipkin
 ## Software Engineer ~~Fellow~~
-<jlipkin8@gmail.com>..
-[LinkedIn](https://www.linkedin.com/in/josephinelipkin/)..
+<jlipkin8@gmail.com>  
+[LinkedIn](https://www.linkedin.com/in/josephinelipkin/)  
 
 ***
 ## Technologies
@@ -28,28 +28,28 @@
 ***
 ## Projects 
 ### [Arts Trek](https://github.com/jlipkin8/HB-Project)
-  ... Maps locations of San Francisco public art and allows the user fetch directions to selected or randomized art locations. Also filters the locations by artist name.
+   Maps locations of San Francisco public art and allows the user fetch directions to selected or randomized art locations. Also filters the locations by artist name.
 ### [Pigeon Quest](https://github.com/jlipkin8/Pigeon_Quest)
-  ... An interactive ‘choose your own adventure’ game, starring the user as a Pigeon sent on a mission to deliver.
+   An interactive ‘choose your own adventure’ game, starring the user as a Pigeon sent on a mission to deliver.
 
 ***
 ## Education and Training 
 ### Hackbright Academy 
 #### September 2017 
-... Software Engineering Fellowship: Accelerated, 12-week, software engineering program for women.
+   Software Engineering Fellowship: Accelerated, 12-week, software engineering program for women.
 
 ### Hackbright Prep
 ####  May 2017
-... Part-time, 8-week, introductory software engineering program
+   Part-time, 8-week, introductory software engineering program
 
 ### Foothill College
 #### July 2016
-... Associate of Science, Computer Science 						           
-Coursework: Discrete Math, Algo & Data Structure Methodologies in C++ 
+   Associate of Science, Computer Science 						           
+   Coursework: Discrete Math, Algo & Data Structure Methodologies in C++ 
 
 ### Linfield College
 #### May 2012
-... Bachelor of Arts, Studio Art
+   Bachelor of Arts, Studio Art
 
 ***
 ## Work Experience
