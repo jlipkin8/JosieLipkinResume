@@ -1,5 +1,5 @@
 # Josephine Lipkin
-## Software Engineer ~~Fellow~~
+## Software Engineer
 <jlipkin8@gmail.com>  
 [LinkedIn](https://www.linkedin.com/in/josephinelipkin/)  
 
